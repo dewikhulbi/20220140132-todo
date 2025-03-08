@@ -17,15 +17,16 @@ VSCode web.php
 
 Register Admin
 
-![Screenshot (200)](https://github.com/user-attachments/assets/a3b771da-3fe6-43af-accc-e9ac1d13fbbb)
+![image](https://github.com/user-attachments/assets/d32f90b6-aa58-4486-8185-e028cdc57c34)
 
-![Screenshot (196)](https://github.com/user-attachments/assets/99251cc5-9964-4e1d-99b3-e015dc763be4)
+![image](https://github.com/user-attachments/assets/12cf4e2c-c26c-434f-88a5-6dd4123e162d)
 
 Register User
 
-![Screenshot (197)](https://github.com/user-attachments/assets/8c4abe37-b8b9-464d-8b3b-1fe30e6d4682)
+![image](https://github.com/user-attachments/assets/a29d4386-50ef-4a9e-a888-54f8c6526ac2)
 
-![Screenshot (198)](https://github.com/user-attachments/assets/d76d8e31-5981-48a1-953f-4c77cb6d1a66)
+![image](https://github.com/user-attachments/assets/e8577332-171e-4023-ae53-24ee36705a64)
+
 
 Database
 
