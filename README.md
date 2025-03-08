@@ -1,23 +1,33 @@
 Install Breeze
 
-![image](https://github.com/user-attachments/assets/67884cf6-8574-47ed-a937-1c11b1669cc0)
+![Screenshot (190)](https://github.com/user-attachments/assets/9810b878-c7fb-4629-875e-29a28f75f4f2)
+
 (composer require laravel/breeze --dev)
 
-![image](https://github.com/user-attachments/assets/9b7c71db-d5bf-4e1e-bfd8-96272301b259)
+![Screenshot (193)](https://github.com/user-attachments/assets/c0205bd6-3df6-406c-8b62-e483ab83e5a7)
+
 (php artisan breeze:install) 
 
-![image](https://github.com/user-attachments/assets/25a5ac9a-03d5-41da-9d85-937892df7e9d)
+![Screenshot (194)](https://github.com/user-attachments/assets/f0d088af-2082-4603-9acf-49d52e07621d)
 
 VSCode web.php
-![image](https://github.com/user-attachments/assets/6aa0051d-ebdc-45fe-8c88-1c6b4fb6c63a)
+
+![Screenshot (201)](https://github.com/user-attachments/assets/04a48242-9d29-4f72-87ad-48deb0ebae64)
+
 
 Register Admin
-![image](https://github.com/user-attachments/assets/a8073f12-e50f-46c7-86d2-1db8cac260a4)
-![image](https://github.com/user-attachments/assets/1ffa27ad-3a52-4f00-8efb-0fb58107d43a)
+
+![Screenshot (200)](https://github.com/user-attachments/assets/a3b771da-3fe6-43af-accc-e9ac1d13fbbb)
+
+![Screenshot (196)](https://github.com/user-attachments/assets/99251cc5-9964-4e1d-99b3-e015dc763be4)
 
 Register User
-![image](https://github.com/user-attachments/assets/c7efb83c-116e-491f-af91-b39c26181b79)
-![image](https://github.com/user-attachments/assets/11cadcdd-9a3e-4a73-adf9-06becf4a903e)
+
+![Screenshot (197)](https://github.com/user-attachments/assets/8c4abe37-b8b9-464d-8b3b-1fe30e6d4682)
+
+![Screenshot (198)](https://github.com/user-attachments/assets/d76d8e31-5981-48a1-953f-4c77cb6d1a66)
 
 Database
-![image](https://github.com/user-attachments/assets/96e307cc-dcc8-4a8c-99d4-5b571c713006)
+
+![Screenshot (199)](https://github.com/user-attachments/assets/98acb86b-8aeb-4dc0-9da9-d6433750c6e8)
+
